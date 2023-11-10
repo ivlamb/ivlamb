@@ -1,5 +1,5 @@
 <pre>
-  - 👋 Hi, I’m <strong>Iván C</strong>
+- 👋 Hi, I’m <strong>Iván C</strong>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning <strong>Data Engineering</strong>
 - 💞️ I’m looking to collaborate on ...
