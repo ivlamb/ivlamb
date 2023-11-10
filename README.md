@@ -1,8 +1,10 @@
-- 👋 Hi, I’m **Iván C**
+<pre>
+  - 👋 Hi, I’m <strong>Iván C</strong>
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning <strong>Data Engineering</strong>
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me **HERE!**
+- 📫 How to reach me <strong>HERE!</strong>
+</pre>
 
 <!---
 ivlamb/ivlamb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
